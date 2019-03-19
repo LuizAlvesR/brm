@@ -1,0 +1,14 @@
+br\com\brm\util\UAgentInfo.class
+br\com\brm\rest\JaxRsActivator.class
+br\com\brm\data\MemberListProducer.class
+br\com\brm\util\RewriteConfigurationProvider$1.class
+br\com\brm\model\Member.class
+br\com\brm\service\MemberRegistration.class
+br\com\brm\model\Member_.class
+br\com\brm\util\Resources.class
+br\com\brm\controller\MemberController.class
+br\com\brm\util\UserAgent.class
+br\com\brm\controller\PageBean.class
+br\com\brm\util\RewriteConfigurationProvider.class
+br\com\brm\data\MemberRepository.class
+br\com\brm\rest\MemberResourceRESTService.class
